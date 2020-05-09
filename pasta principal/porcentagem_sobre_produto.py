@@ -3,6 +3,9 @@ def linha():
 
 dicionario_produtos = {}
 
+#vai ser atualizando com o passar do tempo
+#para ficar de forma mais elegante! e mais legivel
+
 while True:
     linha()
     print('ADICIONAR PRODUTOS')
